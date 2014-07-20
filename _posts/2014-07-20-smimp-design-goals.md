@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMIMP: The Design Goals
+title: SMIMP - The Design Goals
 ---
 
 As we work to get everything tightened up for the first public draft, I wanted to share some more details about just what it is we are working on. I'd love to go ahead and release a public draft today - but the specification needs to be solid. To avoid having too many distractions about half-baked parts of the specification, we are waiting till it's a bit more solid (or the end of the month, which ever comes first).
