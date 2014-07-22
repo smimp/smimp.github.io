@@ -13,7 +13,7 @@ The end goal here is to start a conversation, to get people talking about how to
 
 **Current Status**
 
-Currently, the first public draft is nearing completion. Access is currently limited to a few reviewers, to prevent too much complaining about the parts that haven't been completed yet. The plain is to release the draft on or before August 4th, 2014. The draft will be posted to Github, to make it easy for anyone to submit changes. While access is a bit limited at the moment, this will be a free and open standard - free of copyright or other restrictions. Free for anyone to implement.
+Currently, the first public draft is nearing completion. Access is currently limited to a few reviewers, to prevent too much complaining about the parts that haven't been completed yet. The plain is to release the draft on or before August 4th, 2014. The draft will be posted to Github, to make it easy for anyone to submit changes. While access is a bit limited at the moment, this will be a free and open standard - released under a very liberal license. Free for anyone to implement, change, or use as they like.
 
 The hope of all those involved is that the community will give the specification a thorough review, and provide feedback to help make the protocol what's needed to provide a wide scale, open messaging system to compete with legacy email.
 
